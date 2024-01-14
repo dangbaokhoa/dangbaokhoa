@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dang Bao Khoa
 #### I'm a web developer
-![I'm a web developer](https://i.imgur.com/yw9vUhi.jpg)
+![I'm a web developer]
 
 I'm really interested in learning languages and frameworks.
 
