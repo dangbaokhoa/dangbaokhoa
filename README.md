@@ -1,4 +1,4 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Dang Bao Khoa </h1>
 
-<p align="center" width="150px"> It is my github profile <br> That's it</p>
+<h3 align="center" width="150px"> It is my github profile <br> That's it</h3>
